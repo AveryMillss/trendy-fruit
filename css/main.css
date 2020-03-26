@@ -13,37 +13,38 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-html {
-  box-sizing: border-box;
-}
-
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-h2 {
-  margin: 0 1em;
-}
-
-p {
-  margin: 0 1em 1em;
-}
-
-.unit {
+body {
   margin: 0;
-  margin-bottom: 1em;
-  padding-bottom: 0.5em;
-  padding-top: 0.5em;
 }
 
-.uni {
+.watermelon {
   background-color: #e97065;
 }
 
-.unite {
+.first {
+  font-family: "Rammetto One", cursive;
+}
+
+.starfruit {
   background-color: #fbd25e;
 }
 
-.units {
+.second {
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon {
   background-color: #e86033;
+}
+
+.third {
+  font-family: Comfortaa, cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
 }
